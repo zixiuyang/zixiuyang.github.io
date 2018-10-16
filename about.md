@@ -18,6 +18,7 @@ I started this blog while I had a few months left in China to try and work out s
 
 I realised that while I am here for only a bit longer I can order and test things out really cheaply here, so I should as once I leave I will not be able to as easily or cheaply
 
+
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
